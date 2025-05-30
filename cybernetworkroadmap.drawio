@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.1" pages="2">
   <diagram name="ownPath" id="YaNi0q3uSTH3SKvOgGsb">
     <mxGraphModel dx="730" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -195,6 +195,38 @@
         </mxCell>
         <mxCell id="DiGOYPERcLBxTuMjYQXi-66" value="having mutual discussion later" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="400" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5j-y2mGqqqBXhZYdOr9N" name="jobLevel">
+    <mxGraphModel dx="604" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B5SVvcnAYQWSSy-dqRTC-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="520" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="B5SVvcnAYQWSSy-dqRTC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="B5SVvcnAYQWSSy-dqRTC-1" target="B5SVvcnAYQWSSy-dqRTC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5SVvcnAYQWSSy-dqRTC-1" value="Internship" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5SVvcnAYQWSSy-dqRTC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="B5SVvcnAYQWSSy-dqRTC-2" target="B5SVvcnAYQWSSy-dqRTC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B5SVvcnAYQWSSy-dqRTC-2" value="Early Career" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5SVvcnAYQWSSy-dqRTC-3" value="Experienced-level Career" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5SVvcnAYQWSSy-dqRTC-12" value="Expertise Level" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="240" as="sourcePoint" />
+            <mxPoint x="520" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
