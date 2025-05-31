@@ -314,24 +314,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XZdoxp9sx-xZG5r0dmjZ" name="theRoadMap">
-    <mxGraphModel dx="730" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1031" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A1eO21Q65lQMXS6giFi2-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Learning cybersec and infosec by earning certifications&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Possible several cyber security&amp;nbsp;certifications you can learn to have:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1. Cisco Certified Cybersecurity Associate (CBROPS)&lt;/div&gt;&lt;div&gt;2. CompTIA Security+, CySA+&lt;/div&gt;&lt;div&gt;3. EC-Council Certified Ethical Hacker (CEH)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;## concentration in information security&lt;/div&gt;&lt;div&gt;1. ISC2 Certified Information Systems Security Professional (CISSP)&lt;/div&gt;&lt;div&gt;2. Global Industrial Cyber Security Professional (GICSP)&lt;/div&gt;&lt;div&gt;3. Certified Information Systems Auditor (CISA)&lt;/div&gt;&lt;div&gt;4. GIAC Security Essentials Certification (GSEC)&lt;/div&gt;&lt;div&gt;5. Global Industrial Cyber Security Professional&lt;/div&gt;&lt;div&gt;6. System Security Certified Practitioner (SSCP)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;## concentration in penetration testing&lt;/div&gt;&lt;div&gt;1. CompTIA PenTest+&lt;/div&gt;&lt;div&gt;2. eLearnSecurity Junior Penetration Tester (eJPT)&lt;/div&gt;&lt;div&gt;3. Offensive Security Certified Professioinal (OSCP)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is also recommended to have &lt;b&gt;specific&lt;/b&gt; or &lt;b&gt;more&amp;nbsp;professional-level&lt;/b&gt;&amp;nbsp;certifications, depending on the jobs&#39; requirement you want to apply to or else.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#FF8000;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="410" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="A1eO21Q65lQMXS6giFi2-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Learning server and cloud by earning certifications&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Possible several cyber security&amp;nbsp;certifications you can choose:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1. CompTIA Server+&lt;/div&gt;&lt;div&gt;1. Amazon Web Services&lt;/div&gt;&lt;div&gt;N. HCIA - Cloud Computing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is also recommended to have &lt;b&gt;specific&lt;/b&gt; or &lt;b&gt;more&amp;nbsp;professional-level&lt;/b&gt;&amp;nbsp;certifications, depending on the jobs&#39; requirement you want to apply to or else.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;References:&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://e.huawei.com/en/talent/cert/#/careerCert&quot;&gt;From Huawei&lt;/a&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#FF8000;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="480" width="420" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="A1eO21Q65lQMXS6giFi2-13" value="&lt;div&gt;Digital Forensic and Incident Response:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CertNexus CyberSec First Responder&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GIAC iOS and macOS Examiner (GIME)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Certified Forensic Examiner (GCFE)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Experienced Forensics Examiner (GX-FE)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Battlefield Forensics and Acquisition (GBFA)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Advanced Smartphone Forensics (GASF)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Enterprise Incident Response (GEIR)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Certified Forensic Analyst (GCFA)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Cyber Threat Intelligence (GCTI)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Certified Incident Handler (GCIH)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Experienced Forensics Analyst (GX-FA)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Network Forensic Analyst (GNFA)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Reverse Engineering Malware (GREM)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Response and Industrial Defense (GRID)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Linux Incident Responder (GLIR)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Cloud Forensics Responder (GCFR)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Cloud Threat Detection (GCTD)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Certified Incident Handler (GCIH)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Experienced Incident Handler (GX-IH)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;## cybersecurity leadership&lt;/div&gt;&lt;div style=&quot;&quot;&gt;GIAC Cyber Incident Leader (GCIL)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="-60" width="460" height="390" as="geometry" />
+          <mxGeometry x="50" y="400" width="410" height="350" as="geometry" />
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-45" value="&lt;b&gt;&lt;font&gt;Road Map to become a professional DFIR as network engineering student&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="40" y="-810" width="1040" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="-480" width="1120" height="630" as="geometry" />
+          <mxGeometry x="50" y="-240" width="1120" height="630" as="geometry" />
         </mxCell>
         <mxCell id="Kl7F-X5y0FDA3_k9QnjS-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Learning networks by earning certifications&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Learn and achieve one associate-level networks certification in 6 months is enough. The more certifications, the more time is needed.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Possible several &lt;b&gt;Associate-level&lt;/b&gt; networks certifications you can choose:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1. Cisco Certified Network Associate (CCNA)&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;MikroTik Certified Network Associate (MTCNA)&lt;/div&gt;&lt;div&gt;3. CompTIA Network+&lt;/div&gt;&lt;div&gt;4. HPE Aruba Networking certifications - Associate&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;Juniper Networks Certified Associate - Junos (JNCIA-Junos)&lt;/div&gt;&lt;div&gt;6. Huawei Certified ICT Associate certifications (HCIA)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It is also recommended to have &lt;b&gt;specific&lt;/b&gt; or &lt;b&gt;more&amp;nbsp;professional-level&lt;/b&gt;&amp;nbsp;certifications, depending on the jobs&#39; requirement you want to apply to or else.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;References:&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;data:page/id,XZdoxp9sx-xZG5r0dmjZ&quot;&gt;From Cisco&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://mikrotik.com/training/about&quot;&gt;From MikroTik&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://partners.comptia.org/docs/default-source/resources/it-certification-roadmap-8-5x11-print0c3c382c09d76fc19da8ff0a002c2329&quot;&gt;From CompTIA&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;data:page/id,XZdoxp9sx-xZG5r0dmjZ&quot;&gt;From HPE&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;data:page/id,XZdoxp9sx-xZG5r0dmjZ&quot;&gt;From Juniper&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://e.huawei.com/en/talent/cert/#/careerCert&quot;&gt;From Huawei&lt;/a&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#3333FF;strokeWidth=3;" vertex="1" parent="A1eO21Q65lQMXS6giFi2-46">
           <mxGeometry width="330" height="410" as="geometry" />
@@ -356,8 +350,8 @@
         </mxCell>
         <mxCell id="MQvuXdXu1da8lYIcrYNj-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;strokeColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="-570" as="sourcePoint" />
-            <mxPoint x="1080" y="-570" as="targetPoint" />
+            <mxPoint x="40" y="-530" as="sourcePoint" />
+            <mxPoint x="1080" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MQvuXdXu1da8lYIcrYNj-2" value="first 5 years" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
@@ -365,161 +359,173 @@
         </mxCell>
         <mxCell id="MQvuXdXu1da8lYIcrYNj-3" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#3333FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="-570" as="sourcePoint" />
-            <mxPoint x="110" y="-520" as="targetPoint" />
+            <mxPoint x="110" y="-530" as="sourcePoint" />
+            <mxPoint x="110" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="-570" as="sourcePoint" />
-            <mxPoint x="50" y="-720" as="targetPoint" />
+            <mxPoint x="50" y="-530" as="sourcePoint" />
+            <mxPoint x="50" y="-680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="-570" as="sourcePoint" />
-            <mxPoint x="170" y="-640" as="targetPoint" />
+            <mxPoint x="170" y="-530" as="sourcePoint" />
+            <mxPoint x="170" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-3" value="6 months&lt;div&gt;per certification&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="-600" as="sourcePoint" />
-            <mxPoint x="170" y="-600" as="targetPoint" />
+            <mxPoint x="50" y="-560" as="sourcePoint" />
+            <mxPoint x="170" y="-560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-4" value="Day 1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-560" width="40" height="20" as="geometry" />
+          <mxGeometry x="40" y="-520" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-7" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="-570" as="sourcePoint" />
-            <mxPoint x="290" y="-640" as="targetPoint" />
+            <mxPoint x="290" y="-530" as="sourcePoint" />
+            <mxPoint x="290" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-9" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#FF8000;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="-570" as="sourcePoint" />
-            <mxPoint x="230" y="-520" as="targetPoint" />
+            <mxPoint x="230" y="-530" as="sourcePoint" />
+            <mxPoint x="230" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-16" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="-570" as="sourcePoint" />
+            <mxPoint x="410" y="-530" as="sourcePoint" />
             <mxPoint x="410" y="-720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-17" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#009900;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="-570" as="sourcePoint" />
-            <mxPoint x="350" y="-520" as="targetPoint" />
+            <mxPoint x="350" y="-530" as="sourcePoint" />
+            <mxPoint x="350" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-20" value="first operating system on your computer/laptop" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="-680" as="sourcePoint" />
-            <mxPoint x="410" y="-680" as="targetPoint" />
+            <mxPoint x="50" y="-640" as="sourcePoint" />
+            <mxPoint x="410" y="-640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-21" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="-570" as="sourcePoint" />
-            <mxPoint x="570" y="-640" as="targetPoint" />
+            <mxPoint x="570" y="-530" as="sourcePoint" />
+            <mxPoint x="570" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-22" value="1 year familiarizing&lt;div&gt;to Linux&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry x="0.0058" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="-620" as="sourcePoint" />
-            <mxPoint x="570" y="-620" as="targetPoint" />
+            <mxPoint x="410" y="-580" as="sourcePoint" />
+            <mxPoint x="570" y="-580" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-23" value="time to be familiar to more operating systems" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="-700" as="sourcePoint" />
-            <mxPoint x="1080" y="-700" as="targetPoint" />
+            <mxPoint x="410" y="-660" as="sourcePoint" />
+            <mxPoint x="1080" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-25" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#CC0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="-570" as="sourcePoint" />
-            <mxPoint x="490" y="-520" as="targetPoint" />
+            <mxPoint x="490" y="-530" as="sourcePoint" />
+            <mxPoint x="490" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-26" value="6 months&lt;div&gt;per certification&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="-620" as="sourcePoint" />
-            <mxPoint x="290" y="-620" as="targetPoint" />
+            <mxPoint x="170" y="-580" as="sourcePoint" />
+            <mxPoint x="290" y="-580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-27" value="6 months&lt;div&gt;per certification&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="-600" as="sourcePoint" />
-            <mxPoint x="410" y="-600" as="targetPoint" />
+            <mxPoint x="290" y="-560" as="sourcePoint" />
+            <mxPoint x="410" y="-560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-28" value="learn by competitions&lt;div&gt;within 6 months&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry x="0.0058" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="-600" as="sourcePoint" />
-            <mxPoint x="720" y="-600" as="targetPoint" />
+            <mxPoint x="570" y="-560" as="sourcePoint" />
+            <mxPoint x="720" y="-560" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-29" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="-570" as="sourcePoint" />
-            <mxPoint x="720" y="-680" as="targetPoint" />
+            <mxPoint x="720" y="-530" as="sourcePoint" />
+            <mxPoint x="720" y="-640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-30" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#B5739D;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="-570" as="sourcePoint" />
-            <mxPoint x="650" y="-520" as="targetPoint" />
+            <mxPoint x="650" y="-530" as="sourcePoint" />
+            <mxPoint x="650" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-33" value="having intership(s)&lt;div&gt;within 1 year&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry x="0.0084" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="-620" as="sourcePoint" />
-            <mxPoint x="860" y="-620" as="targetPoint" />
+            <mxPoint x="720" y="-580" as="sourcePoint" />
+            <mxPoint x="860" y="-580" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-34" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="-570" as="sourcePoint" />
-            <mxPoint x="860" y="-640" as="targetPoint" />
+            <mxPoint x="860" y="-530" as="sourcePoint" />
+            <mxPoint x="860" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-38" value="DFIR certifications while working" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry x="0.0084" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="-650" as="sourcePoint" />
-            <mxPoint x="1080" y="-650" as="targetPoint" />
+            <mxPoint x="720" y="-610" as="sourcePoint" />
+            <mxPoint x="1080" y="-610" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-40" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#4C0099;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="-570" as="sourcePoint" />
-            <mxPoint x="790" y="-520" as="targetPoint" />
+            <mxPoint x="790" y="-530" as="sourcePoint" />
+            <mxPoint x="790" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A1eO21Q65lQMXS6giFi2-43" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;strokeWidth=3;strokeColor=#663300;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="-570" as="sourcePoint" />
-            <mxPoint x="960" y="-520" as="targetPoint" />
+            <mxPoint x="960" y="-530" as="sourcePoint" />
+            <mxPoint x="960" y="-480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2m5ZMW3eq1_i2xvB7QHv-1" value="cyber security and information security certifications" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry x="0.0084" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="-670" as="sourcePoint" />
-            <mxPoint x="1080" y="-670" as="targetPoint" />
+            <mxPoint x="720" y="-630" as="sourcePoint" />
+            <mxPoint x="1080" y="-630" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2m5ZMW3eq1_i2xvB7QHv-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Words to notice!&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;## Becomes a polyglot by learning foreign languages: English or Mandarin or Russian or any or combinations of them.&lt;/div&gt;&lt;div&gt;## Each interval time in the road map includes learning theory and practice.&lt;/div&gt;&lt;div&gt;## You can also apply to boot-camps oriented to this cyber security fields and/or attend the conference.&lt;/div&gt;&lt;div&gt;## If you are already familiar or have excellent understanding in the domains, you can combine the subjects at a time.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#333333;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="460" y="160" width="700" height="130" as="geometry" />
+          <mxGeometry x="470" y="400" width="700" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2m5ZMW3eq1_i2xvB7QHv-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Learning DFIR by earning certifications&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;CertNexus CyberSec First Responder&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GIAC Experienced Forensics Analyst (GX-FA)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;GIAC iOS and macOS Examiner (GIME)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GIAC Reverse Engineering Malware (GREM)&lt;/div&gt;&lt;div&gt;GIAC Certified Forensics Examiner (GCFE)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GIAC Response and Industrial Defense (GRID)&lt;/div&gt;&lt;div&gt;GIAC Advanced Smartphone Forensics (GASF)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GIAC Linux Incident Responder (GLIR)&lt;/div&gt;&lt;div&gt;GIAC Enterprise Incident Response (GEIR)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GIAC Cloud Forensics Responder (GCFR)&lt;/div&gt;&lt;div&gt;GIAC Certified Forensics Analyst (GCFA)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GIAC Cloud Threat Detection (GCFR)&lt;/div&gt;&lt;div&gt;GIAC Cyber Threat Intelligent (GCTI)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GIAC Certified Incident Handler (GCIH)&lt;/div&gt;&lt;div&gt;GIAC Certified Incident Handler (GCTI)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GIAC Experienced Incident Handler (GX-IH)&lt;/div&gt;&lt;div&gt;GIAC Network Forensics Analyst (GNFA)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#333333;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="700" height="210" as="geometry" />
+          <mxGeometry x="470" y="540" width="700" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2m5ZMW3eq1_i2xvB7QHv-4" value="time to be familiar with cloud and server" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="-680" as="sourcePoint" />
+            <mxPoint x="1080" y="-680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2m5ZMW3eq1_i2xvB7QHv-5" value="time to be familiar with blockchain and cryptocurrency" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="-700" as="sourcePoint" />
+            <mxPoint x="1080" y="-700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
